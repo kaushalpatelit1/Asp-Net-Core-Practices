@@ -1,0 +1,7 @@
+D:\PROJECTS\ProjectsGit\WcfServiceCRUDApp\WcfService.Server\bin\WcfService.Server.dll.config
+D:\PROJECTS\ProjectsGit\WcfServiceCRUDApp\WcfService.Server\bin\WcfService.Server.dll
+D:\PROJECTS\ProjectsGit\WcfServiceCRUDApp\WcfService.Server\bin\WcfService.Server.pdb
+D:\PROJECTS\ProjectsGit\WcfServiceCRUDApp\WcfService.Server\obj\Debug\WcfService.Server.csproj.AssemblyReference.cache
+D:\PROJECTS\ProjectsGit\WcfServiceCRUDApp\WcfService.Server\obj\Debug\WcfService.Server.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ProjectsGit\WcfServiceCRUDApp\WcfService.Server\obj\Debug\WcfService.Server.dll
+D:\PROJECTS\ProjectsGit\WcfServiceCRUDApp\WcfService.Server\obj\Debug\WcfService.Server.pdb

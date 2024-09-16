@@ -1,0 +1,59 @@
+﻿@model IEnumerable<CRUDWithRepository.Core.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr />
+<form>
+<button asp-action="CreateOrEditProduct" asp-controller="Product" class="btn btn-primary mb-3">Create Product</button>
+<table class="table table-responsive table-border">
+    <thead>
+        <tr class="table-active">
+            <th>
+                @Html.DisplayNameFor(m => m.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(m => m.Quantity)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model != null && Model.Any())
+        {
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.ProductName</td>
+                    <td>@product.Price</td>
+                    <td>@product.Quantity</td>
+
+                    <td>
+                        <a class="btn btn-warning" asp-action="CreateOrEditProduct" asp-controller="Product" asp-route-id="@product.Id">Edit</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-controller="Product" asp-route-id="@product.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">
+                    <div>
+                        No Products found.
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</form>

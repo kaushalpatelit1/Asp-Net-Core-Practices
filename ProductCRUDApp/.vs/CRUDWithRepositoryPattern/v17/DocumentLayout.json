@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepositorypattern\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|solutionrelative:crudwithrepositorypattern\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519DB6A6-82E0-473A-8020-6DDF7E89F425}|CRUDWithRepository.Infrastructure\\CRUDWithRepository.Infrastructure.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepository.infrastructure\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519DB6A6-82E0-473A-8020-6DDF7E89F425}|CRUDWithRepository.Infrastructure\\CRUDWithRepository.Infrastructure.csproj|solutionrelative:crudwithrepository.infrastructure\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepositorypattern\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|solutionrelative:crudwithrepositorypattern\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepositorypattern\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|solutionrelative:crudwithrepositorypattern\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepositorypattern\\views\\product\\createoreditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|solutionrelative:crudwithrepositorypattern\\views\\product\\createoreditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepositorypattern\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|solutionrelative:crudwithrepositorypattern\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepositorypattern\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|solutionrelative:crudwithrepositorypattern\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519DB6A6-82E0-473A-8020-6DDF7E89F425}|CRUDWithRepository.Infrastructure\\CRUDWithRepository.Infrastructure.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepository.infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519DB6A6-82E0-473A-8020-6DDF7E89F425}|CRUDWithRepository.Infrastructure\\CRUDWithRepository.Infrastructure.csproj|solutionrelative:crudwithrepository.infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B09651-653E-4895-81C8-626FD809873D}|CRUDWithRepository.Core\\CRUDWithRepository.Core.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepository.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B09651-653E-4895-81C8-626FD809873D}|CRUDWithRepository.Core\\CRUDWithRepository.Core.csproj|solutionrelative:crudwithrepository.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepositorypattern\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|solutionrelative:crudwithrepositorypattern\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepositorypattern\\crudwithrepositorypatternui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD926F64-16BE-433B-8528-3A53412FA580}|CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj|solutionrelative:crudwithrepositorypattern\\crudwithrepositorypatternui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B09651-653E-4895-81C8-626FD809873D}|CRUDWithRepository.Core\\CRUDWithRepository.Core.csproj|d:\\projects\\projectsgit\\productcrudapp\\crudwithrepository.core\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B09651-653E-4895-81C8-626FD809873D}|CRUDWithRepository.Core\\CRUDWithRepository.Core.csproj|solutionrelative:crudwithrepository.core\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepository.Infrastructure\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CRUDWithRepository.Infrastructure\\Implementations\\ProductRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepository.Infrastructure\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "CRUDWithRepository.Infrastructure\\Implementations\\ProductRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:13:26.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepository.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CRUDWithRepository.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepository.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CRUDWithRepository.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:05:13.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRUDWithRepositoryPattern\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CRUDWithRepositoryPattern\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwGYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:21:25.496Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithRepositoryPattern\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "CRUDWithRepositoryPattern\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:00:59.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Custom.js",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\wwwroot\\js\\Custom.js",
+              "RelativeDocumentMoniker": "CRUDWithRepositoryPattern\\wwwroot\\js\\Custom.js",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\wwwroot\\js\\Custom.js",
+              "RelativeToolTip": "CRUDWithRepositoryPattern\\wwwroot\\js\\Custom.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-11T14:52:07.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithRepositoryPattern\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDWithRepositoryPattern\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T14:44:29.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithRepositoryPattern\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CRUDWithRepositoryPattern\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T22:24:33.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrEditProduct.cshtml",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\Product\\CreateOrEditProduct.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithRepositoryPattern\\Views\\Product\\CreateOrEditProduct.cshtml",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\Product\\CreateOrEditProduct.cshtml",
+              "RelativeToolTip": "CRUDWithRepositoryPattern\\Views\\Product\\CreateOrEditProduct.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T23:00:32.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithRepositoryPattern\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUDWithRepositoryPattern\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T22:41:53.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CRUDWithRepositoryPatternUI.csproj",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj",
+              "RelativeDocumentMoniker": "CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj",
+              "RelativeToolTip": "CRUDWithRepositoryPattern\\CRUDWithRepositoryPatternUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T22:21:46.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyAppDbContext.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepository.Core\\MyAppDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDWithRepository.Core\\MyAppDbContext.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepository.Core\\MyAppDbContext.cs",
+              "RelativeToolTip": "CRUDWithRepository.Core\\MyAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:56:17.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepository.Core\\Product.cs",
+              "RelativeDocumentMoniker": "CRUDWithRepository.Core\\Product.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\ProductCRUDApp\\CRUDWithRepository.Core\\Product.cs",
+              "RelativeToolTip": "CRUDWithRepository.Core\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:54:09.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

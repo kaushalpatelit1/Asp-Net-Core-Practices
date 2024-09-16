@@ -1,0 +1,25 @@
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\bin\Debug\net8.0\CRUDWithRepository.Core.deps.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\bin\Debug\net8.0\CRUDWithRepository.Core.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\bin\Debug\net8.0\CRUDWithRepository.Core.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.csproj.AssemblyReference.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.AssemblyInfoInputs.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.AssemblyInfo.cs
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\refint\CRUDWithRepository.Core.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Core\obj\Debug\net8.0\ref\CRUDWithRepository.Core.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\bin\Debug\net8.0\CRUDWithRepository.Core.deps.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\bin\Debug\net8.0\CRUDWithRepository.Core.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\bin\Debug\net8.0\CRUDWithRepository.Core.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.csproj.AssemblyReference.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.AssemblyInfoInputs.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.AssemblyInfo.cs
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.sourcelink.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\refint\CRUDWithRepository.Core.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\CRUDWithRepository.Core.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Core\obj\Debug\net8.0\ref\CRUDWithRepository.Core.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XufgEbLhScAfapE8znnkqxMYdpVW3/9WKjdP9Dr1sIg=",
+  "Source": "RESTAPI_CRUDApp",
+  "BasePath": "_content/RESTAPI_CRUDApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

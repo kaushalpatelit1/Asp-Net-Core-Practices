@@ -1,0 +1,31 @@
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.deps.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Core.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Core.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.csproj.AssemblyReference.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.AssemblyInfoInputs.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.AssemblyInfo.cs
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWith.10F90B38.Up2Date
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\refint\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\ref\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.deps.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Core.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\bin\Debug\net8.0\CRUDWithRepository.Core.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.csproj.AssemblyReference.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.AssemblyInfoInputs.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.AssemblyInfo.cs
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.sourcelink.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWith.10F90B38.Up2Date
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\refint\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\CRUDWithRepository.Infrastructure.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepository.Infrastructure\obj\Debug\net8.0\ref\CRUDWithRepository.Infrastructure.dll

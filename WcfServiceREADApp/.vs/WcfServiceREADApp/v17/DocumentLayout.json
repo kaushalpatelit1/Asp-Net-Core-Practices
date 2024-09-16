@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798624C5-AEA8-4971-9F05-942227056C9C}|MVCWcf.Client\\MVCWcf.Client.csproj|d:\\projects\\projectsgit\\wcfservicecrudapp\\mvcwcf.client\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798624C5-AEA8-4971-9F05-942227056C9C}|MVCWcf.Client\\MVCWcf.Client.csproj|solutionrelative:mvcwcf.client\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9268884F-542A-4DD6-B51F-8AA2F5B5746F}|WcfService.Server\\WcfService.Server.csproj|D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\wcfservice.server\\mywcfservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9268884F-542A-4DD6-B51F-8AA2F5B5746F}|WcfService.Server\\WcfService.Server.csproj|solutionrelative:wcfservice.server\\mywcfservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9268884F-542A-4DD6-B51F-8AA2F5B5746F}|WcfService.Server\\WcfService.Server.csproj|D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\wcfservice.server\\mywcf.contract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9268884F-542A-4DD6-B51F-8AA2F5B5746F}|WcfService.Server\\WcfService.Server.csproj|solutionrelative:wcfservice.server\\mywcf.contract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9268884F-542A-4DD6-B51F-8AA2F5B5746F}|WcfService.Server\\WcfService.Server.csproj|D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\wcfservice.server\\imywcfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9268884F-542A-4DD6-B51F-8AA2F5B5746F}|WcfService.Server\\WcfService.Server.csproj|solutionrelative:wcfservice.server\\imywcfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798624C5-AEA8-4971-9F05-942227056C9C}|MVCWcf.Client\\MVCWcf.Client.csproj|d:\\projects\\projectsgit\\wcfservicecrudapp\\mvcwcf.client\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798624C5-AEA8-4971-9F05-942227056C9C}|MVCWcf.Client\\MVCWcf.Client.csproj|solutionrelative:mvcwcf.client\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798624C5-AEA8-4971-9F05-942227056C9C}|MVCWcf.Client\\MVCWcf.Client.csproj|d:\\projects\\projectsgit\\wcfservicecrudapp\\mvcwcf.client\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798624C5-AEA8-4971-9F05-942227056C9C}|MVCWcf.Client\\MVCWcf.Client.csproj|solutionrelative:mvcwcf.client\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9268884F-542A-4DD6-B51F-8AA2F5B5746F}|WcfService.Server\\WcfService.Server.csproj|D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\wcfservice.server\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9268884F-542A-4DD6-B51F-8AA2F5B5746F}|WcfService.Server\\WcfService.Server.csproj|solutionrelative:wcfservice.server\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\WcfService.Server\\MyWcf.Contract\\Employee.cs",
+              "RelativeDocumentMoniker": "WcfService.Server\\MyWcf.Contract\\Employee.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\WcfService.Server\\MyWcf.Contract\\Employee.cs",
+              "RelativeToolTip": "WcfService.Server\\MyWcf.Contract\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:52:49.704Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMyWcfService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\WcfService.Server\\IMyWcfService.cs",
+              "RelativeDocumentMoniker": "WcfService.Server\\IMyWcfService.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\WcfService.Server\\IMyWcfService.cs",
+              "RelativeToolTip": "WcfService.Server\\IMyWcfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:51:32.3Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyWcfService.svc.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\WcfService.Server\\MyWcfService.svc.cs",
+              "RelativeDocumentMoniker": "WcfService.Server\\MyWcfService.svc.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\WcfService.Server\\MyWcfService.svc.cs",
+              "RelativeToolTip": "WcfService.Server\\MyWcfService.svc.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:51:08.344Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\WcfService.Server\\Web.config",
+              "RelativeDocumentMoniker": "WcfService.Server\\Web.config",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\WcfService.Server\\Web.config",
+              "RelativeToolTip": "WcfService.Server\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T15:58:34.509Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\MVCWcf.Client\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWcf.Client\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\MVCWcf.Client\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVCWcf.Client\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T16:31:35.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\MVCWcf.Client\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCWcf.Client\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\MVCWcf.Client\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCWcf.Client\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:21:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\MVCWcf.Client\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCWcf.Client\\Models\\Employee.cs",
+              "ToolTip": "D:\\PROJECTS\\ProjectsGit\\WcfServiceCRUDApp\\MVCWcf.Client\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCWcf.Client\\Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA7wCQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:17:51.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

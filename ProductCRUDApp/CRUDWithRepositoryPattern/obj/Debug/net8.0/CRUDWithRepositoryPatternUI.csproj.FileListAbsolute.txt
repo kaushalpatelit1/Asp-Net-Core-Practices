@@ -1,0 +1,149 @@
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\appsettings.Development.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\appsettings.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.staticwebassets.runtime.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.exe
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.deps.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.runtimeconfig.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Azure.Core.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Azure.Identity.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Memory.Data.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepository.Core.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepository.Core.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.csproj.AssemblyReference.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.AssemblyInfoInputs.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.AssemblyInfo.cs
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.RazorAssemblyInfo.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.RazorAssemblyInfo.cs
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets.build.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets.development.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets\msbuild.CRUDWithRepositoryPatternUI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUDWithRepositoryPatternUI.props
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUDWithRepositoryPatternUI.props
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUDWithRepositoryPatternUI.props
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\scopedcss\bundle\CRUDWithRepositoryPatternUI.styles.css
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\scopedcss\projectbundle\CRUDWithRepositoryPatternUI.bundle.scp.css
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWith.BB73150C.Up2Date
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\refint\CRUDWithRepositoryPatternUI.dll
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.pdb
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.genruntimeconfig.cache
+D:\PROJECTS\ASP NET Projects\CRUDWithRepositoryPattern\CRUDWithRepositoryPattern\obj\Debug\net8.0\ref\CRUDWithRepositoryPatternUI.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\appsettings.Development.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\appsettings.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.staticwebassets.runtime.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.exe
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.deps.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.runtimeconfig.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepositoryPatternUI.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Azure.Core.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Azure.Identity.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Memory.Data.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepository.Core.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepository.Core.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\bin\Debug\net8.0\CRUDWithRepository.Infrastructure.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.csproj.AssemblyReference.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.AssemblyInfoInputs.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.AssemblyInfo.cs
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.RazorAssemblyInfo.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.RazorAssemblyInfo.cs
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.sourcelink.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets.build.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets.development.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets\msbuild.CRUDWithRepositoryPatternUI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUDWithRepositoryPatternUI.props
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUDWithRepositoryPatternUI.props
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUDWithRepositoryPatternUI.props
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\scopedcss\bundle\CRUDWithRepositoryPatternUI.styles.css
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\scopedcss\projectbundle\CRUDWithRepositoryPatternUI.bundle.scp.css
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWith.BB73150C.Up2Date
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\refint\CRUDWithRepositoryPatternUI.dll
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.pdb
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\CRUDWithRepositoryPatternUI.genruntimeconfig.cache
+D:\PROJECTS\ProjectsGit\ProductCRUDApp\CRUDWithRepositoryPattern\obj\Debug\net8.0\ref\CRUDWithRepositoryPatternUI.dll
